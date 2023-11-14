@@ -1,0 +1,14 @@
+Z:\dev\AccountManagement\bin\Debug\net7.0\AccountManagement.exe
+Z:\dev\AccountManagement\bin\Debug\net7.0\AccountManagement.deps.json
+Z:\dev\AccountManagement\bin\Debug\net7.0\AccountManagement.runtimeconfig.json
+Z:\dev\AccountManagement\bin\Debug\net7.0\AccountManagement.dll
+Z:\dev\AccountManagement\bin\Debug\net7.0\AccountManagement.pdb
+Z:\dev\AccountManagement\obj\Debug\net7.0\AccountManagement.GeneratedMSBuildEditorConfig.editorconfig
+Z:\dev\AccountManagement\obj\Debug\net7.0\AccountManagement.AssemblyInfoInputs.cache
+Z:\dev\AccountManagement\obj\Debug\net7.0\AccountManagement.AssemblyInfo.cs
+Z:\dev\AccountManagement\obj\Debug\net7.0\AccountManagement.csproj.CoreCompileInputs.cache
+Z:\dev\AccountManagement\obj\Debug\net7.0\AccountManagement.dll
+Z:\dev\AccountManagement\obj\Debug\net7.0\refint\AccountManagement.dll
+Z:\dev\AccountManagement\obj\Debug\net7.0\AccountManagement.pdb
+Z:\dev\AccountManagement\obj\Debug\net7.0\AccountManagement.genruntimeconfig.cache
+Z:\dev\AccountManagement\obj\Debug\net7.0\ref\AccountManagement.dll
